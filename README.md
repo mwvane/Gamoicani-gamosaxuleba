@@ -1,0 +1,2 @@
+# Gamoicani-gamosaxuleba
+Gamoicani gamosaxuleba 
