@@ -1,0 +1,13 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი გამოსახულება.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი_გამოსახულება.Form1.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი გამოსახულება.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\გამოიცანი გამოსახულება.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი_გამოსახულება.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი გამოსახულება.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი_გამოსახულება.PictureWithLabel.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\Mwvane_UI.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\Mwvane_UI.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\Mwvane_UI.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\გამოიცანი გამოსახულება.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\bin\Debug\გამოიცანი გამოსახულება.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\გამოიცანი გამოსახულება\გამოიცანი გამოსახულება\obj\Debug\გამოიცანი გამოსახულება.exe
